@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customise_theme_colors">Theme colours</string>
+    <string name="brand_name" translatable="false">RamBox +</string>
+    <string name="app_icon_gradient">Gradient</string>
+    <string name="app_icon_ocean">Ocean</string>
+</resources>

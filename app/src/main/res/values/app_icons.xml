@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the launcher icons' backgrounds; material you's follows the wallpaper on android 12+ (values-v31) -->
+<resources>
+    <color name="app_icon_white">#D9D9D9</color>
+    <color name="app_icon_black">#000000</color>
+    <color name="app_icon_material">#4E7D55</color>
+    <color name="app_icon_gradient">#A855F7</color>
+    <color name="app_icon_ocean">#4F9BEB</color>
+</resources>
